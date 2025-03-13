@@ -478,7 +478,7 @@ footer .copyright a:hover                 {text-decoration:underline;}
   footer .copyright                       {text-align:center;}
 }
 
-.switch_contact                           {cursor:pointer; display: none;}
+.switch_contact                           {cursor:pointer; display: none !important;}
 
 /* базовый контейнер уведомлений */
 .message                                  {background-size: 40px 40px; background-image: -moz-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%,
