@@ -1,0 +1,12 @@
+.number-plus-minus  .icon-left-open-big,
+.number-plus-minus  .icon-right-open-big            {font-size: 30px; padding: 4px;}
+.number-plus-minus  input[type="number"]            {font-size: 1.6rem; padding: 4px; width: 50px; text-align: center}
+.number-plus-minus  .icon-left-open-big:hover,
+.number-plus-minus  .icon-right-open-big:hover      {color: #2C97DE; cursor: pointer}
+.number-plus-minus .desc                            {width: 77%;display: none}
+.number-plus-minus .block_number                    {width: 23%; min-width: 110px;}
+.number-plus-minus .desc,
+.number-plus-minus .block_number                    {float: left; height: 80px; margin: 0;}
+.result                                             {float: left; width: 100%; margin: 0; height: 100px;}
+.result .message                                    {margin: 0;}
+.price                                              {font-size: 50px;}
