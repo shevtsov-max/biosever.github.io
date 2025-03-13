@@ -160,7 +160,7 @@ a.preview {
 	background-size: 400px 80px;
 	background-repeat: no-repeat;
 	box-shadow: 0 2px 0 #165181;
-	
+
 	-webkit-transition: background-position .2s ease-in;
 	-ms-transition: background-position .2s ease-in;
 	-moz-transition: background-position .2s ease-in;
@@ -233,12 +233,12 @@ a.preview {
 	display: block;
 	padding: 10px 10px;
 	border-radius: 3px;
-	
+
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #fff;
 	font-weight: bold;
 	text-decoration: none;
-	font-size: 15px;	
+	font-size: 15px;
 	text-shadow: 0 -1px 1px rgba(0, 0, 0, .4);
 
 	background: #286398;
@@ -281,7 +281,7 @@ a.preview {
 	height: 16px;
 	width: 16px;
 	margin-left: 5px;
-	background: url("http://biosever.ru/img/stars.png") no-repeat 0 0;
+	background: url("https://biosever.ru/img/stars.png") no-repeat 0 0;
 }
 
 .rating li.rated {
